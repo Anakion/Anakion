@@ -1,58 +1,65 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Anatoliy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend Developer</h3>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Anakion&style=flat-square&color=blue" alt=""/>
-</div>
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3DF7&width=435&lines=Writing+APIs+with+FastAPI+%26+Django;Growing+my+skills+in+Python+development!" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3DF7&height=180&section=header&text=Anatoliy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descSize=20&descAlignY=60" alt="Anatoliy — Backend Developer" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C3DF7&center=true&vCenter=true&width=520&lines=Building+fast+APIs+with+FastAPI;Shipping+robust+backends+with+Django;Designing+clean+PostgreSQL+schemas" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="https://t.me/Tech_Nest_Manager"><img src="https://img.shields.io/badge/Telegram-Let's%20talk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/Anakion?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+
 </div>
+
+<br/>
+
+## 👨‍💻 About
+
+Backend developer who builds web APIs and server-side applications in **Python**. I care about clean architecture, readable code and databases that stay fast as data grows.
+
+- ⚙️ **Core:** Python · FastAPI · Django · PostgreSQL
+- 🌱 **Currently improving:** backend architecture and production-ready code
+- 🤝 **Open to:** interesting projects, collaboration and job opportunities
+
+## 🛠 Tech stack
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
-### :woman_technologist: About Me :
----
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-  
-- :seedling: Exploring Technical Content Writing.
-  
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-  
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+## 🚀 Featured projects
 
-### :hammer_and_wrench: Languages and Tools :
----
+| Project | What it does | Stack |
+|---|---|---|
+| [**CommentNest**](https://github.com/Anakion/CommentNest) | Real-time comment system with live updates over WebSockets | FastAPI · PostgreSQL · Redis · Docker · Alembic |
+| [**MicroMarket**](https://github.com/Anakion/MicroMarket-) | Online store API: JWT auth, user registration, product management and search | FastAPI · PostgreSQL · JWT · Docker · Pytest · GitHub Actions |
+| [**microservices-shop**](https://github.com/Anakion/microservices-shop) | Online shop built with a microservices architecture | Django · Python |
 
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="40" style="margin-right: 10px;"/>&nbsp;
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anakion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+
 </div>
 
+## 📫 Contact
 
+**Telegram:** [@Tech_Nest_Manager](https://t.me/Tech_Nest_Manager) — the fastest way to reach me.
 
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3DF7&height=80&section=footer" width="100%" alt=""/>
